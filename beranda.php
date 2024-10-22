@@ -5,6 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-    Ini halaman beranda
+    Ini halaman beranda utama
 </body>
 </html>
